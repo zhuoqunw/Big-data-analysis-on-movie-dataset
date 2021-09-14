@@ -19,7 +19,10 @@ It’s not a secret that there exists an inherent gender bias in the movie busin
 <img width="851" alt="workflow" src="https://user-images.githubusercontent.com/56980385/133186122-41d79bae-bdc9-485d-ab1c-8dff7e114582.png">
 
 ## Analysis and Visualization
-Some of the findings:  
+**Some of the findings:  **
+
+**💡For more analyses, including details of data preprocessing and manipulation, and more visualizations, please refer to the [final report](https://github.com/zhuoqunw/Big-data-analysis-on-movie-dataset/blob/main/SI%20618%20Project%201%20Report-Lea.pdf)**
+
 1. Overall, there is an increasing trend in the percentage of movies passing the Bechdel test (represented by the green bars) over decades.
 
 ![time_trend](https://user-images.githubusercontent.com/56980385/133186561-664bdcfe-ccda-4513-8b0b-72264bfc857e.png)
@@ -39,5 +42,3 @@ Another interesting finding is that, this negative relationship between IMDb rat
 ![box office](https://user-images.githubusercontent.com/56980385/133187192-5b7ecda5-3e7f-4fb1-9655-3b5d0f2490c6.png)
 
 ![roi](https://user-images.githubusercontent.com/56980385/133187203-65a7263f-513d-4bae-8c8e-637845d0e094.png)
-
-**For more analysis, including details of data preprocessing and manipulation, and more visualizations, please refer to the [final report](https://github.com/zhuoqunw/Big-data-analysis-on-movie-dataset/blob/main/SI%20618%20Project%201%20Report-Lea.pdf)**
