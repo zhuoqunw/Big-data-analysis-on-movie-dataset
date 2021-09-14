@@ -40,4 +40,4 @@ Another interesting finding is that, this negative relationship between IMDb rat
 
 ![roi](https://user-images.githubusercontent.com/56980385/133187203-65a7263f-513d-4bae-8c8e-637845d0e094.png)
 
-**For more analysis, including details of data preprocessing and manipulation, and more visualizations, please refer to the [final report](SI 618 Project 1 Report-Lea.pdf)**
+**For more analysis, including details of data preprocessing and manipulation, and more visualizations, please refer to the [final report](https://github.com/zhuoqunw/Big-data-analysis-on-movie-dataset/blob/main/SI%20618%20Project%201%20Report-Lea.pdf)**
