@@ -19,15 +19,15 @@ It’s not a secret that there exists an inherent gender bias in the movie busin
 <img width="851" alt="workflow" src="https://user-images.githubusercontent.com/56980385/133186122-41d79bae-bdc9-485d-ab1c-8dff7e114582.png">
 
 ## Analysis and Visualization
-**Some of the findings:  **
+**Some of the findings:**  
 
 **💡For more analyses, including details of data preprocessing and manipulation, and more visualizations, please refer to the [final report](https://github.com/zhuoqunw/Big-data-analysis-on-movie-dataset/blob/main/SI%20618%20Project%201%20Report-Lea.pdf)**
 
-1. Overall, there is an increasing trend in the percentage of movies passing the Bechdel test (represented by the green bars) over decades.
+#### 1. Overall, there is an increasing trend in the percentage of movies passing the Bechdel test (represented by the green bars) over decades.
 
 ![time_trend](https://user-images.githubusercontent.com/56980385/133186561-664bdcfe-ccda-4513-8b0b-72264bfc857e.png)
 
-2. There is an overall trend that the higher the IMDb rating, the lower the percentage of movies passing the Bechdel test.
+#### 2. There is an overall trend that the higher the IMDb rating, the lower the percentage of movies passing the Bechdel test.
 
 ![rating](https://user-images.githubusercontent.com/56980385/133186879-1fdf4d68-7920-4797-b0c5-b2bceb4dc8b6.png)
 
@@ -36,7 +36,7 @@ Another interesting finding is that, this negative relationship between IMDb rat
 ![male_female_rating](https://user-images.githubusercontent.com/56980385/133186925-a1622d62-0834-4423-887d-58a12d416b3f.png)
 
 
-3. Movies passing the test (represented by the highlighted orange bar) have the lowest median budget, but not the lowest box office and ROI
+#### 3. Movies passing the test (represented by the highlighted orange bar) have the lowest median budget, but not the lowest box office and ROI
 ![budget](https://user-images.githubusercontent.com/56980385/133187126-b5e55a66-521a-4784-9e76-f5d95da2dc5b.png)
 
 ![box office](https://user-images.githubusercontent.com/56980385/133187192-5b7ecda5-3e7f-4fb1-9655-3b5d0f2490c6.png)
